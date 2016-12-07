@@ -2,5 +2,5 @@
 |  #  |      Title     |   Solutions   | Time          | Space         | Difficulty  | Tag          | Notes
 |-----|----------------|---------------|---------------|---------------|-------------|--------------|-----
 
-//|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Solution](../../blob/master/EASY/src/easy/TwoSum.java)| O(n)/O(n^2)|O(1)/O(n) | Easy| HashMap
+|1|[Two Sum]|[Solution]| O(n)/O(n^2)|O(1)/O(n) | Easy| HashMap
 
